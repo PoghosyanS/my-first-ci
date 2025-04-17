@@ -15,3 +15,7 @@ def test_add_zero():
 
 def test_add_one():
     assert add(0, 1) == 1
+
+
+def test_add_two():
+    assert add(0, 2) == 2
